@@ -10,4 +10,4 @@
 Feel free to follow my GitHub projects and share your experiences—I look forward to collaborating with you!
 
 ### My Blog➡
-- 📖 [Goat' Blog]([https://tover.xyz/p/butterfly-cdn-changed/](https://blog.goatpeng.cn/))
+- 📖 [Goat' Blog](https://blog.goatpeng.cn/)
