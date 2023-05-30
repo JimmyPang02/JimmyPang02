@@ -9,5 +9,4 @@
 
 Feel free to follow my GitHub projects and share your experiences—I look forward to collaborating with you!
 
-### My Blog➡
-- 📖 [Goat' Blog](https://blog.goatpeng.cn/)
+### My Blog➡ [Goat' Blog](https://blog.goatpeng.cn/)
