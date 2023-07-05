@@ -1,7 +1,6 @@
 ### Hi there, I'm GoatPeng 👋
  - 🚩a Computer Science student from South China Normal University (SCNU) 
 - 🔭 My main areas of interest are AI and Cybersecurity.
-- 🌱 In AI, my research fields include Medical Applications and Natural Language Processing (NLP).
 - 🏅 In CTF competitions, I specialize in Web Security.
 - 📫 How to reach me: Please contact me through the email address listed on my GitHub profile.
 - 😄 Pronouns: Goat/GoatPang/Goatpeng
