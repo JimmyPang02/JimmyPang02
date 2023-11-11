@@ -1,4 +1,4 @@
-### Hi there, I'm Jeremy Peng 👋
+### Hi there, I'm Jimmy Peng 👋
 - 🚩a Computer Science student from South China Normal University (SCNU) 
 - 📚 I am currently going to Zhejiang University (ZJU) to pursue my Master's degree.
 - 🔭 My main areas of interest are AI and Cybersecurity.
